@@ -1,0 +1,12 @@
+mins,secs,play_type,description
+2,7,run,"3 WR, 1 TE, 1 RB, QB under center, run up the middle"
+6,0,run,"2 WR, 1 RB, QB under center, Run to the left"
+9,0,pass,"4 WR, 1 TE, no RB, QB back, pass up the middle"
+9,24,pass,"3 WR, 1 TE, 1 RB, QB back, pass to RB behind LOS to the left"
+14,47,pass,"3 WR, 1 TE, 1 RB, QB back, pass to right side"
+21,21,run,"2 WR, 2 TE, 1 RB, QB back, run up the middle"
+28,42,pass,"4 WR, 1 RB, QB back, pass to left side"
+41,19,pass,"3 WR, 1 TE, 1 RB, QB back, QB sacked trying to pass down field"
+41,58,pass,"3  WR, 1 TE, 1 RB, QB back, pass left side"
+48,21,run,"2 WR, 2 TE, 1 RB, QB back, run up the middle"
+66,36,pass,"2 WR, 2 TE, 1 RB, QB back, pass to WR behind LOS"

@@ -1,4 +1,8 @@
 venv/
 *.pyc
 data/original
+data/youtube_screenshots
+runs/
+notebooks/yolov8m.pt
 outlines/
+.DS_Store

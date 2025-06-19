@@ -1,0 +1,12 @@
+mins,secs,play_type,description
+0,30,run,"Shotgun, 3 WR, 1 TE, 1 RB, run towards LT"
+0,88,pass,"Shotgun, 4WR, 1RB, pass to RB right side, behing line of scrimmage"
+0,118,pass,"Shotgun, 3 WR, 1 TE (Blocking)1 RB, pass RB right side, behind line of scrimmage"
+0,146,run,"I Formation, 1 WR, 1 FB, 1 RB, RB run up the middle"
+10,53,pass,"I Formation, 1 WR, 1 FB, 1 RB, Play-action left side to TE"
+11,23,run,"I Formation, 1 WR, 1 FB, 1RB, RB run towards LT"
+23,9,run,"1WR, 3 TE, 1 RB, QB under Center, RB run towards RT"
+23,33,pass,"Shotgun, 4 WR, 1 RB, pass to left side WR"
+24,3,pass,"Shotgun, 4 WR, 1 RB, pass to right side WR"
+46,34,pass,"Shotgun, 3 WR, 1 RB, 1 TE, deep pass to WR right"
+53,19,run,"1 WR, 3 TE, 1 RB, QB under center, run towards RT"

@@ -1,0 +1,12 @@
+mins,secs,play_type,description
+0,25,pass,"1WR, 3 TE, 1RB, QB 5 yds back, pass to right (RB) behind line of scrimmage "
+0,55,pass,"3 WR, 1 TE, 1 RB, QB back, 20 yd pass to the left side line"
+1,35,pass,"4 WR, 1 RB, QB back, pass to WR, left side, begind line of scrimmage"
+11,35,run,"2 WR, 2 RB, 1 TE, QB under Center, RB run towards RT"
+12,2,run,"3 WR, 1 TE, 1 RB, QB back, RB run outside to the right"
+12,32,run,"I Formation, run towards left tackle"
+12,57,pass,"Single back formation, QB under center, 2 WR close, pass to RB behind LOS"
+43,52,run,"3 WR, 1 TE, 1RB, QB back, RB run right side towards sideline"
+44,32,pass,"Shotgun, 3 WR, 1 TE, pass to WR, left side"
+54,55,pass,"1 WR, 3 TE, 1 RB, QB back, pass to right side"
+61,10,run,"1 WR, 2 RB, 2 TE, QB under center, Run up the middle"
