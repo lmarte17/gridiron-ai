@@ -7,3 +7,4 @@ notebooks/yolov8m.pt
 models/best_play_predictor.pth
 outlines/
 .DS_Store
+presentation_outline.md
