@@ -4,5 +4,6 @@ data/original
 data/youtube_screenshots
 runs/
 notebooks/yolov8m.pt
+models/best_play_predictor.pth
 outlines/
 .DS_Store
